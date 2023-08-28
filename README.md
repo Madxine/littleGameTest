@@ -1,4 +1,4 @@
-# Personal Project for game logic practice
+# Personal project for game logic practice
  
 ## Shooting game tutorial 
 Code a 2D Game Using JavaScript, HTML, and CSS (w/ Free Game Assets) – Tutorial →
